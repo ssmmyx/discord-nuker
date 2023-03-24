@@ -1,6 +1,6 @@
-nuke discord servers without having to create ur own discord bot
+Nuke discord servers without having to create ur own discord bot
 
-I DO NOT RECOMMEND NUKING SERVERS ANY CONSEQUENCES ARE NOT THE OWNERS PROBLEM
+I DO NOT RECOMMEND NUKING SERVERS ANY CONSEQUENCES ARE YOURS TO DEAL WITH
 
 How to use this script:
 
