@@ -4,7 +4,7 @@ I DO NOT RECOMMEND NUKING SERVERS ANY CONSEQUENCES ARE YOURS TO DEAL WITH
 
 How to use this script:
 
-- 1 Log into discord on you're preffered browser.
+- 1 Open the discord server.
 
 - 2 Press ctrl + shift + I
 
